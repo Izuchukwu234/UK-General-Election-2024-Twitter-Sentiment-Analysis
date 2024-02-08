@@ -1,0 +1,2 @@
+# UK-General-Election-2024-Twitter-Sentiment-Analysis
+I was bored and tried to draw some insight on the forthcoming UK general elections. I scrapped the most recent 1000 tweets from a trend on Twitter/X, #ConservativeParty using Nitter library effectively, preprocessed the tweets and applied sentiment analyzer from VADER so as to get the positive and negative opinions from people living in the UK.
